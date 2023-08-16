@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1531" height="92.107" viewBox="0 0 1531 92.107">
+  <defs>
+    <filter id="Rectangle_2" x="1238.447" y="0" width="92.107" height="92.107" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-2" x="978.447" y="0" width="92.107" height="92.107" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-3" x="718.447" y="0" width="92.107" height="92.107" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-4" x="459.447" y="0" width="92.107" height="92.107" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-5" x="199.447" y="0" width="92.107" height="92.107" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(-195 -2708)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="226" height="19" transform="translate(1500 2745)" fill="#d8d8d8"/>
+    <g id="Group_28" data-name="Group 28">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="219" height="19" transform="translate(1240 2745)" fill="#d8d8d8"/>
+      <g id="Group_23" data-name="Group 23" transform="translate(1218.354 760.907)">
+        <g transform="matrix(1, 0, 0, 1, -1023.35, 1947.09)" filter="url(#Rectangle_2)">
+          <g id="Rectangle_2-6" data-name="Rectangle 2" transform="translate(1284.5 15) rotate(45)" fill="none" stroke="#fff" stroke-width="8">
+            <rect width="43.916" height="43.916" stroke="none"/>
+            <rect x="4" y="4" width="35.916" height="35.916" fill="none"/>
+          </g>
+        </g>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="18.673" height="18.673" transform="translate(261.146 1979.942) rotate(45)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_27" data-name="Group 27">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="219" height="19" transform="translate(980 2745)" fill="#d8d8d8"/>
+      <g id="Group_22" data-name="Group 22" transform="translate(958.354 760.907)">
+        <g transform="matrix(1, 0, 0, 1, -763.35, 1947.09)" filter="url(#Rectangle_2-2)">
+          <g id="Rectangle_2-7" data-name="Rectangle 2" transform="translate(1024.5 15) rotate(45)" fill="none" stroke="#fff" stroke-width="8">
+            <rect width="43.916" height="43.916" stroke="none"/>
+            <rect x="4" y="4" width="35.916" height="35.916" fill="none"/>
+          </g>
+        </g>
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="18.673" height="18.673" transform="translate(261.146 1979.942) rotate(45)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_26" data-name="Group 26">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="219" height="19" transform="translate(721 2745)" fill="#d8d8d8"/>
+      <g id="Group_21" data-name="Group 21" transform="translate(698.354 760.907)">
+        <g transform="matrix(1, 0, 0, 1, -503.35, 1947.09)" filter="url(#Rectangle_2-3)">
+          <g id="Rectangle_2-8" data-name="Rectangle 2" transform="translate(764.5 15) rotate(45)" fill="none" stroke="#fff" stroke-width="8">
+            <rect width="43.916" height="43.916" stroke="none"/>
+            <rect x="4" y="4" width="35.916" height="35.916" fill="none"/>
+          </g>
+        </g>
+        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="18.673" height="18.673" transform="translate(261.146 1979.942) rotate(45)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_25" data-name="Group 25">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="219" height="19" transform="translate(461 2745)" fill="#d8d8d8"/>
+      <g id="Group_20" data-name="Group 20" transform="translate(439.354 760.907)">
+        <g transform="matrix(1, 0, 0, 1, -244.35, 1947.09)" filter="url(#Rectangle_2-4)">
+          <g id="Rectangle_2-9" data-name="Rectangle 2" transform="translate(505.5 15) rotate(45)" fill="none" stroke="#fff" stroke-width="8">
+            <rect width="43.916" height="43.916" stroke="none"/>
+            <rect x="4" y="4" width="35.916" height="35.916" fill="none"/>
+          </g>
+        </g>
+        <rect id="Rectangle_3-4" data-name="Rectangle 3" width="18.673" height="18.673" transform="translate(261.146 1979.942) rotate(45)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_24" data-name="Group 24">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="225" height="19" transform="translate(195 2745)" fill="#d8d8d8"/>
+      <g id="Group_19" data-name="Group 19" transform="translate(179.354 760.907)">
+        <g transform="matrix(1, 0, 0, 1, 15.65, 1947.09)" filter="url(#Rectangle_2-5)">
+          <g id="Rectangle_2-10" data-name="Rectangle 2" transform="translate(245.5 15) rotate(45)" fill="none" stroke="#fff" stroke-width="8">
+            <rect width="43.916" height="43.916" stroke="none"/>
+            <rect x="4" y="4" width="35.916" height="35.916" fill="none"/>
+          </g>
+        </g>
+        <rect id="Rectangle_3-5" data-name="Rectangle 3" width="18.673" height="18.673" transform="translate(261.146 1979.942) rotate(45)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

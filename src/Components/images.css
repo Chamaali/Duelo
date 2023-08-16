@@ -1,0 +1,391 @@
+/* css for NavigationBar.js*/
+/* ..............................*/
+.nav-bar{
+    
+    /* position: 'fixed'; */
+    /* top: 0;
+    left: 0;
+    right: 0; */
+    /* padding: '20px';  */
+    /* background-color: #111111; */
+}
+
+.nav-row{
+    display: flex;
+}
+
+.duelo-logo{
+    
+    flex: 50%;
+}
+
+.logo{
+    width: 30%;
+}
+
+.nav-items{
+    font-family:'Nunito', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-right: 10px;
+    
+    
+    /* background-color: isActiveAbout ? '#003E9B' : '#f8f9fa', */
+    /* color: isActiveAbout ? 'white' : 'black', */
+}
+
+.nav-link{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+}
+
+.nav-link:hover{
+    color:#888888;  
+}
+
+.nav-link.active {
+    color: #888888 !important;
+  }
+
+.btn-primary {
+    --bs-btn-color: #FFFFFF;
+    --bs-btn-bg: #F19930;
+    --bs-btn-border-color: #F19930;
+    --bs-btn-hover-color: #FFFFFF;
+    --bs-btn-hover-bg: #ec8d18;
+    --bs-btn-hover-border-color: #F19930;
+    --bs-btn-focus-shadow-rgb: #656565;
+    --bs-btn-active-color: #FFFFFF;
+    --bs-btn-active-bg: #efa750;
+    --bs-btn-active-border-color: #F19930;
+    --bs-btn-active-shadow: inset 0 3px 5px #656565;
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+}
+
+.btn {   
+    display: inline-block;
+    padding: 0.28rem ;
+    font-size: 15px;
+    font-weight:  bold;
+    height: 2.2rem;
+    width: 6rem;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-left: 5rem;
+    margin-top: 0.2rem;
+    align-self: flex-end;
+}
+
+.toggle{
+    background-color: #efa750;
+}
+
+.toggle:hover{
+    background-color: #dba25ddc;
+}
+
+.toggle-bg{
+    
+    
+}
+
+
+
+
+
+
+
+
+
+/* css for Main.js*/
+/* ..............................*/
+
+/* .contain1{
+    position: relative;
+} */
+.home-image{
+    display: flex;
+    flex-direction: row;
+    
+    width: 100%;
+}
+
+.Group_29{
+    width: 100%;
+}
+
+.link{
+   text-decoration: none !important;
+   color: #FFFFFF;
+   
+   font-style: italic;
+   font-weight: 500;
+   
+   
+   
+}
+
+
+
+.paragraph-timeline{
+    color: #FFFFFF;
+    font-size: "Roboto Mono"; 
+    font-size: 150%;
+    text-align: center;
+}
+
+.Group_145{
+    width: 100%;
+}
+
+.btn-container {
+    position: relative;
+    
+    color: white;
+  }
+
+/* .Button2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    color: #FFFFFF;
+    background-color: #F19930;
+    padding: 1.5rem ;
+    margin:0;
+    width: auto;
+    font-size: 20px;
+    font-weight:  bolder;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 35px 10px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    border-color: #F19930;
+    --bs-btn-hover-color: #FFFFFF;
+    --bs-btn-hover-bg: #ec8d18;
+    --bs-btn-hover-border-color: #F19930;
+    --bs-btn-active-color: #FFFFFF;
+    --bs-btn-active-bg: #efa750;
+    --bs-btn-active-border-color: #F19930;
+} */
+
+.btn-primary2 {
+    --bs-btn-color: #FFFFFF;
+    --bs-btn-bg: #F19930;
+    --bs-btn-border-color: #F19930;
+    --bs-btn-hover-color: #FFFFFF;
+    --bs-btn-hover-bg: #ec8d18;
+    --bs-btn-hover-border-color: #F19930;
+    --bs-btn-focus-shadow-rgb: #656565;
+    --bs-btn-active-color: #FFFFFF;
+    --bs-btn-active-bg: #efa750;
+    --bs-btn-active-border-color: #F19930;
+    --bs-btn-active-shadow: inset 0 3px 5px #656565;
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+}
+
+.btn2 {   
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    /* padding: rem ; */
+    width: 15rem;
+    font-size: 15px;
+    font-weight:  bold;
+    cursor: pointer;
+    border-radius: 25px 10px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+}
+
+
+
+.Group_146{
+    width: 35%;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.Group_147{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+/* .flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+   
+}
+
+.flex-items{
+    
+    
+} */
+
+
+
+
+
+.J222{
+    width: 60%;
+    
+    
+}
+
+.J111{
+    width: 90%;
+    
+}
+
+.J1{
+    width: 30%;
+}
+
+.image{
+    
+    text-align: center;
+    padding: auto;
+    
+    
+}
+
+.content{
+    
+    text-align: center;
+    padding: auto;
+    
+    
+}
+
+
+
+
+.prize{
+    margin-top: 6%;
+    color: #F19930;
+    font-size: 180%;
+    font-weight: bold;
+}
+
+
+.place{
+    color: #FFFFFF;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.flex-container2{
+    
+}
+
+
+
+.spons-logo{
+    width: 200px;
+    padding: 2rem;
+
+}
+
+/* .spons-apply{
+    display: flex;
+    margin-top: 20px;
+}
+
+.spons-apply-btn{
+ 
+}
+
+ */
+
+.spons-apply-text{
+    color: #FFFFFF;
+    flex: 70%;
+}
+
+/* css for Footer.js*/
+/* ..............................*/
+
+.footer-box{
+    padding: 0;
+    width: auto;
+    height: 330px;
+    background-color: #707070;
+    color: white;
+    align-self: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    position: relative;
+    
+    
+}
+
+.out{
+    margin-top: 3%;
+
+}
+
+
+
+
+
+.flex-container3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.flex-items3{
+    
+}
+
+/* Technical Specification */
+/* ........................... */
+
+.sub-topics{
+    color: #F19930;
+    font-size: "Roboto Mono";
+    font-size: 150%;
+}
+
+.paragraph{
+    color: #FFFFFF;
+    font-size: "Roboto Mono";  
+}
+
+.sub-paragraph{
+    color: #FFFFFF;
+    font-size: "Roboto Mono";
+    font-size: 150%;
+    
+}
+
+.red{
+    color: #FE5353;
+    
+}

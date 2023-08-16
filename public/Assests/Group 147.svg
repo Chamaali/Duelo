@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1272" height="507" viewBox="0 0 1272 507">
+  <defs>
+    <filter id="Rectangle_12" x="67.47" y="17.061" width="129.532" height="135.94" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12-2" x="846.266" y="17.061" width="129.532" height="135.94" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-2"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12-3" x="67.47" y="188.966" width="129.532" height="135.94" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-3"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12-4" x="846.266" y="188.966" width="129.532" height="135.94" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-4"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12-5" x="67.47" y="360.871" width="129.532" height="135.94" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-5"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12-6" x="846.266" y="360.871" width="129.532" height="135.94" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-6"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_15" x="0" y="0" width="1272" height="507" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.588"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_147" data-name="Group 147" transform="translate(-309 -5468)">
+    <g id="Group_126" data-name="Group 126" transform="translate(318 5496)">
+      <g id="Group_124" data-name="Group 124" transform="translate(77.97 8.56)">
+        <path id="Rectangle_11" data-name="Rectangle 11" d="M.262,0,274.082,5.2l2.076,79.962L0,87.882Z" transform="translate(19.553 3.305)" fill="#776141"/>
+        <g transform="matrix(1, 0, 0, 1, -86.97, -36.56)" filter="url(#Rectangle_12)">
+          <path id="Rectangle_12-7" data-name="Rectangle 12" d="M19.5,19.5l88.127,1.78,2.4,93.947-88.954,1.214Z" transform="translate(67.47 17.06)" fill="#f5bb69"/>
+        </g>
+      </g>
+      <g id="Group_125" data-name="Group 125" transform="translate(856.766 8.56)">
+        <path id="Rectangle_11-2" data-name="Rectangle 11" d="M.262,0,274.082,5.2l2.076,79.962L0,87.882Z" transform="translate(19.553 3.305)" fill="#776141"/>
+        <g transform="matrix(1, 0, 0, 1, -865.77, -36.56)" filter="url(#Rectangle_12-2)">
+          <path id="Rectangle_12-8" data-name="Rectangle 12" d="M19.5,19.5l88.127,1.78,2.4,93.947-88.954,1.214Z" transform="translate(846.27 17.06)" fill="#f5bb69"/>
+        </g>
+      </g>
+      <text id="A" transform="translate(24 83)" fill="#d8d8d8" font-size="79" font-family="Roboto Mono" font-weight="700"><tspan x="-23" y="0">A</tspan></text>
+      <text id="VS" transform="translate(632 85)" fill="#d8d8d8" font-size="59" font-family="Roboto Mono" font-weight="700"><tspan x="-35" y="0">VS</tspan></text>
+      <text id="VS-2" data-name="VS" transform="translate(632 255)" fill="#d8d8d8" font-size="59" font-family="Roboto Mono" font-weight="700"><tspan x="-35" y="0">VS</tspan></text>
+      <text id="VS-3" data-name="VS" transform="translate(632 425)" fill="#d8d8d8" font-size="59" font-family="Roboto Mono" font-weight="700"><tspan x="-35" y="0">VS</tspan></text>
+      <text id="B" transform="translate(1209 83)" fill="#d8d8d8" font-size="79" font-family="Roboto Mono" font-weight="700"><tspan x="-23" y="0">B</tspan></text>
+    </g>
+    <g id="Group_127" data-name="Group 127" transform="translate(318 5667)">
+      <g id="Group_124-2" data-name="Group 124" transform="translate(77.97 9.465)">
+        <path id="Rectangle_11-3" data-name="Rectangle 11" d="M.262,0,274.082,5.2l2.076,79.962L0,87.882Z" transform="translate(19.553 3.305)" fill="#776141"/>
+        <g transform="matrix(1, 0, 0, 1, -86.97, -208.47)" filter="url(#Rectangle_12-3)">
+          <path id="Rectangle_12-9" data-name="Rectangle 12" d="M19.5,19.5l88.127,1.78,2.4,93.947-88.954,1.214Z" transform="translate(67.47 188.97)" fill="#f5bb69"/>
+        </g>
+      </g>
+      <g id="Group_125-2" data-name="Group 125" transform="translate(856.766 9.465)">
+        <path id="Rectangle_11-4" data-name="Rectangle 11" d="M.262,0,274.082,5.2l2.076,79.962L0,87.882Z" transform="translate(19.553 3.305)" fill="#776141"/>
+        <g transform="matrix(1, 0, 0, 1, -865.77, -208.47)" filter="url(#Rectangle_12-4)">
+          <path id="Rectangle_12-10" data-name="Rectangle 12" d="M19.5,19.5l88.127,1.78,2.4,93.947-88.954,1.214Z" transform="translate(846.27 188.97)" fill="#f5bb69"/>
+        </g>
+      </g>
+      <text id="C" transform="translate(24 83)" fill="#d8d8d8" font-size="79" font-family="Roboto Mono" font-weight="700"><tspan x="-23" y="0">C</tspan></text>
+      <text id="B-2" data-name="B" transform="translate(1209 83)" fill="#d8d8d8" font-size="79" font-family="Roboto Mono" font-weight="700"><tspan x="-23" y="0">B</tspan></text>
+    </g>
+    <g id="Group_128" data-name="Group 128" transform="translate(318 5839)">
+      <g id="Group_124-3" data-name="Group 124" transform="translate(77.97 9.37)">
+        <path id="Rectangle_11-5" data-name="Rectangle 11" d="M.262,0,274.082,5.2l2.076,79.962L0,87.881Z" transform="translate(19.553 3.306)" fill="#776141"/>
+        <g transform="matrix(1, 0, 0, 1, -86.97, -380.37)" filter="url(#Rectangle_12-5)">
+          <path id="Rectangle_12-11" data-name="Rectangle 12" d="M19.5,19.5l88.127,1.78,2.4,93.947-88.954,1.214Z" transform="translate(67.47 360.87)" fill="#f5bb69"/>
+        </g>
+      </g>
+      <g id="Group_125-3" data-name="Group 125" transform="translate(856.766 9.37)">
+        <path id="Rectangle_11-6" data-name="Rectangle 11" d="M.262,0,274.082,5.2l2.076,79.962L0,87.881Z" transform="translate(19.553 3.306)" fill="#776141"/>
+        <g transform="matrix(1, 0, 0, 1, -865.77, -380.37)" filter="url(#Rectangle_12-6)">
+          <path id="Rectangle_12-12" data-name="Rectangle 12" d="M19.5,19.5l88.127,1.78,2.4,93.947-88.954,1.214Z" transform="translate(846.27 360.87)" fill="#f5bb69"/>
+        </g>
+      </g>
+      <text id="A-2" data-name="A" transform="translate(24 83)" fill="#d8d8d8" font-size="79" font-family="Roboto Mono" font-weight="700"><tspan x="-23" y="0">A</tspan></text>
+      <text id="C-2" data-name="C" transform="translate(1209 83)" fill="#d8d8d8" font-size="79" font-family="Roboto Mono" font-weight="700"><tspan x="-23" y="0">C</tspan></text>
+    </g>
+    <g id="redc_bg" transform="translate(-10 -3305.932)">
+      <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(328 8782.932)" fill="#707070" stroke="#707070" stroke-width="1" opacity="0.15">
+        <rect width="1254" height="153" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1253" height="152" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 319, 8773.93)" filter="url(#Rectangle_15)">
+        <g id="Rectangle_15-2" data-name="Rectangle 15" transform="translate(9 9)" fill="#707070" stroke="#707070" stroke-width="1" opacity="0.08">
+          <rect width="1254" height="489" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1253" height="488" fill="none"/>
+        </g>
+      </g>
+      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(328 9120.932)" fill="#707070" stroke="#707070" stroke-width="1" opacity="0.15">
+        <rect width="1254" height="151" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1253" height="150" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
