@@ -11,6 +11,7 @@ export default function App() {
           <Route index element={<MainView />} />
           <Route path="TechnicalSpecification" element={<TechnicalSpecification/>}  />
       </Routes>
+
     </BrowserRouter>
   );
 }
