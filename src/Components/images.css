@@ -25,7 +25,7 @@
 
 .nav-items{
     font-family:'Nunito', sans-serif;
-    font-size: 18px;
+    font-size: 1.6vw;
     text-align: left;
     font-weight: 600;
     color: #FFFFFF;
@@ -51,7 +51,7 @@
     color: #888888 !important;
   }
 
-.btn-primary {
+/* .btn-primary1 {
     --bs-btn-color: #FFFFFF;
     --bs-btn-bg: #F19930;
     --bs-btn-border-color: #F19930;
@@ -66,33 +66,58 @@
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: #0d6efd;
     --bs-btn-disabled-border-color: #0d6efd;
+} */
+
+.btn1 {   
+    display: inline-block;
+    padding: 1 ;
+    background-color: #ec8d18;
+    border-color: #ec8d18;
+    font-size: 1.3vw;
+    font-weight:  bold;
+    height: 3.2vw;
+    width: 8vw;
+    cursor: pointer;
+    border-radius: 1vw;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-left: 6vw;
+    margin-top: 1.2vw;
+    align-self: flex-end;
+    
 }
 
-.btn {   
-    display: inline-block;
-    padding: 0.28rem ;
-    font-size: 15px;
-    font-weight:  bold;
-    height: 2.2rem;
-    width: 6rem;
-    cursor: pointer;
-    border-radius: 0.5rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    margin-left: 5rem;
-    margin-top: 0.2rem;
-    align-self: flex-end;
+.btn1:hover{
+    background-color: #ffa02d;
+    border-color: #ffa02d;
+}
+
+.register{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
 }
 
 .toggle{
-    background-color: #efa750;
+    background-color: #ec8d18;
+    border-color: #ec8d18;
+    border-radius: 8%;
+}
+
+.navbar-toggler-icon{
+    width: 6vw;
 }
 
 .toggle:hover{
-    background-color: #dba25ddc;
+    background-color: #ffa02d;
+    border-color: #ffa02d;
 }
 
 .toggle-bg{
     
+    
+    
+
     
 }
 
@@ -124,7 +149,7 @@
 .link{
    text-decoration: none !important;
    color: #FFFFFF;
-   
+   font-size: 2vw;
    font-style: italic;
    font-weight: 500;
    
@@ -137,7 +162,7 @@
 .paragraph-timeline{
     color: #FFFFFF;
     font-size: "Roboto Mono"; 
-    font-size: 150%;
+    font-size: 1.5vw;
     text-align: center;
 }
 
@@ -179,38 +204,45 @@
     --bs-btn-active-border-color: #F19930;
 } */
 
-.btn-primary2 {
+/* .btn-primary2 {
     --bs-btn-color: #FFFFFF;
-    --bs-btn-bg: #F19930;
-    --bs-btn-border-color: #F19930;
+    --bs-btn-bg: #efa750;
+    --bs-btn-border-color: #efa750;
     --bs-btn-hover-color: #FFFFFF;
     --bs-btn-hover-bg: #ec8d18;
-    --bs-btn-hover-border-color: #F19930;
+    --bs-btn-hover-border-color: #efa750;
     --bs-btn-focus-shadow-rgb: #656565;
     --bs-btn-active-color: #FFFFFF;
     --bs-btn-active-bg: #efa750;
-    --bs-btn-active-border-color: #F19930;
+    --bs-btn-active-border-color: #efa750;
     --bs-btn-active-shadow: inset 0 3px 5px #656565;
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: #0d6efd;
     --bs-btn-disabled-border-color: #0d6efd;
-}
+} */
 
 .btn2 {   
     display: inline-block;
+    background-color: #ec8d18;
+    border-color: #ec8d18;
     position: absolute;
     top: 50%;
-    left: 43%;
+    left: 50%;
     transform: translate(-50%, -50%);
     display: inline-block;
     /* padding: rem ; */
-    width: 15rem;
-    font-size: 15px;
+    width: 35vw;
+    font-size: 2vw;
     font-weight:  bold;
     cursor: pointer;
-    border-radius: 25px 10px;
+    border-radius: 5vw 1vw;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     
+}
+
+.btn2:hover{
+    background-color: #ffa02d;
+    border-color: #ffa02d;
 }
 
 
@@ -248,24 +280,24 @@
 
 
 .J222{
-    width: 60%;
+    width: 20vw;
     
     
 }
 
 .J111{
-    width: 90%;
+    width: 30vw;
     
 }
 
 .J1{
-    width: 30%;
+    width: 13vw;
 }
 
 .image{
     
     text-align: center;
-    padding: auto;
+    padding: 1vw;
     
     
 }
@@ -284,14 +316,14 @@
 .prize{
     margin-top: 6%;
     color: #F19930;
-    font-size: 180%;
+    font-size: 2.2vw;
     font-weight: bold;
 }
 
 
 .place{
     color: #FFFFFF;
-    font-size: 120%;
+    font-size: 1.2vw;
     font-weight: bold;
 }
 
@@ -302,8 +334,8 @@
 
 
 .spons-logo{
-    width: 200px;
-    padding: 2rem;
+    width: 25vw;
+    padding: 6vw;
 
 }
 
@@ -321,6 +353,12 @@
 .spons-apply-text{
     color: #FFFFFF;
     flex: 70%;
+    
+    justify-content: end;
+}
+
+.spons-apply-paragraph{
+    font-size: 1.5vw;
 }
 
 /* css for Footer.js*/
@@ -328,8 +366,9 @@
 
 .footer-box{
     padding: 0;
+    
     width: auto;
-    height: 330px;
+    height: 40vw;
     background-color: #707070;
     color: white;
     align-self: center;
@@ -343,12 +382,33 @@
     
 }
 
+/* .footer-text{
+    margin-top:15vw;
+} */
+
 .out{
-    margin-top: 3%;
+    margin-top: 7%;
+    width: 30vw;
 
 }
 
+.footer-para{
+    font-size: 1vw;
+    
+}
 
+.footer-contact{
+    font-size: 2vw;
+    
+}
+
+.icon-set{
+    
+}
+.footer-icon{
+    width: 4vw;
+    padding: 0.2vw;
+}
 
 
 
@@ -367,21 +427,29 @@
 /* Technical Specification */
 /* ........................... */
 
+.technical{
+    padding: 0;
+    height: 300vw;
+}
+
 .sub-topics{
     color: #F19930;
     font-size: "Roboto Mono";
-    font-size: 150%;
+    font-size: 1.8vw;
+    text-align: justify;
 }
 
 .paragraph{
     color: #FFFFFF;
-    font-size: "Roboto Mono";  
+    font-size: "Roboto Mono"; 
+    
 }
 
 .sub-paragraph{
     color: #FFFFFF;
     font-size: "Roboto Mono";
-    font-size: 150%;
+    font-size: 1.8vw;
+    text-align: justify;
     
 }
 

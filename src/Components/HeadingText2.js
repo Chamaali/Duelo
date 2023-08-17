@@ -12,7 +12,7 @@ const HeadingText2 = styled.p`
     margin-top: 2%; */
     color: #F19930;
     font-size: "Roboto Mono";
-    font-size: 150%;
+    font-size: 1.9vw;
     font-weight: bold;
 `
 export default HeadingText2;

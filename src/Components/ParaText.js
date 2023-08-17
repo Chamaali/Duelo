@@ -13,7 +13,7 @@ const ParaText = styled.p`
     opacity: 1; */
     color: #FFFFFF;
     font-size: "Roboto Mono";
-    font-size: 150%;
+    font-size: 1.8vw;
     text-align: justify;
 `
 

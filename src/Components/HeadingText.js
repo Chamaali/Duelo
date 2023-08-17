@@ -15,7 +15,7 @@ const HeadingText = styled.p`
 
     color: #F19930;
     font-size: "Roboto Mono";
-    font-size: 190%;
+    font-size: 2.2vw;
     font-weight:bold;
     /* margin-top: 5%; */
     padding-top: 8%;

@@ -45,7 +45,7 @@ function Main ()  {
         
         <div id="agenda">
             <HeadingText >AGENDA</HeadingText>
-            <ParaText  data-aos="fade-up">Date: Not Decided Date yet, April 2023</ParaText>
+            {/* <ParaText  data-aos="fade-up">Date: Not Decided Date yet, April 2023</ParaText> */}
             <div data-aos="fade-up">
                 <Row>
                     <Col></Col>
@@ -63,7 +63,7 @@ function Main ()  {
             </div>
             <img src="Assests/Group 29.svg" className="Group_29"/>
 
-            <Link className="link" to="">View more...</Link>
+            <Link className="link" to=""><p>To be Announced...</p></Link>
         </div>
         
         <div>
@@ -89,43 +89,43 @@ function Main ()  {
         <div>
             <HeadingText>COMPETITION FORMAT</HeadingText>
             <HeadingText2 style={{textAlign:"left"}}>I.MATCH TYPE (FRIST ROUND MATCH)</HeadingText2>
-            <img src="Assests/Group 146.png" className="Group_146"/>
+            <img src="Assests/Group 146.png" className="Group_146"  data-aos="fade-up"/>
         </div>
         
 
         <div>
             <HeadingText2 style={{textAlign:"left"}}>II.MATCH TYPE (SECOND ROUND MATCH))</HeadingText2>
-            <img src="Assests/Group 147.svg" className="Group_147"/>
+            <img src="Assests/Group 147.svg" className="Group_147"  data-aos="fade-up"/>
         </div>
         
 
         <div>
             <HeadingText>MATCH TIME LIMITS</HeadingText>
-            <ParaText>1st Round - 3 minutes fight From the semifinals onwards there will be 2 rounds each for a battle. Note: Time limits and base rules may be changed subject to Judges’ decisions.</ParaText>
+            <ParaText  data-aos="fade-up">1st Round - 3 minutes fight From the semifinals onwards there will be 2 rounds each for a battle. Note: Time limits and base rules may be changed subject to Judges’ decisions.</ParaText>
         </div>
         
 
         <div>
             <HeadingText>MATCH FREQUENCY</HeadingText>
-            <ParaText>It is recommended that any routine maintenance should take no longer than 20 minutes (especially battery charging and/or replacement). Teams who are not prepared to compete after this period may be forced to forfeit. Initial round competing opponents will be selected randomly. Objections over the selected contender will not be entertained</ParaText>
+            <ParaText  data-aos="fade-up">It is recommended that any routine maintenance should take no longer than 20 minutes (especially battery charging and/or replacement). Teams who are not prepared to compete after this period may be forced to forfeit. Initial round competing opponents will be selected randomly. Objections over the selected contender will not be entertained</ParaText>
         </div>
         
 
         <div>
             <HeadingText>POWER OF OFFICIAL</HeadingText>
-            <ParaText>Entrants must follow the verbal instructions of “SUSL Robot Battles 2K23” officials at all the times. This is necessary to maintain the safety of the audience and participants. Circumstances beyond the scope of the rules and guidelines shall be up to judges’ decisions and would be final.</ParaText>
+            <ParaText  data-aos="fade-up">Entrants must follow the verbal instructions of “SUSL Robot Battles 2K23” officials at all the times. This is necessary to maintain the safety of the audience and participants. Circumstances beyond the scope of the rules and guidelines shall be up to judges’ decisions and would be final.</ParaText>
         </div>
         
 
         <div>
             <HeadingText>JUDGING OF MATCHES</HeadingText>
-            <ParaText>“SUSL Robot Battles 2K23” Duel matches will be the two robots on the specified starting points of the arena. At the start the robots should be placed with in the starting square. Any part of the robot / multi robot should not exceed the starting square (of the maximum allowable dimensions). The robots must be motionless with all rotary and other type of weapons switched off. After the official start, robots should exhibit motion on a regular basis so that they are not declared “incapacitated”.</ParaText>        
+            <ParaText  data-aos="fade-up">“SUSL Robot Battles 2K23” Duel matches will be the two robots on the specified starting points of the arena. At the start the robots should be placed with in the starting square. Any part of the robot / multi robot should not exceed the starting square (of the maximum allowable dimensions). The robots must be motionless with all rotary and other type of weapons switched off. After the official start, robots should exhibit motion on a regular basis so that they are not declared “incapacitated”.</ParaText>        
         </div>
 
         <div>
             <HeadingText id="prizes">PRIZES</HeadingText>
             <div>
-                <Row>
+                <Row   data-aos="fade-up">
                     <Col>
                         <div className="image">
                             <img src="Assests/222.png" className="J222"/>
@@ -154,7 +154,7 @@ function Main ()  {
                         </div>
                     </Col>
                 </Row>
-                <Row>
+                <Row   data-aos="fade-up">
                     <Col>
                         <div className="image">
                             <img src="Assests/1.png" className="J1"/>
@@ -183,7 +183,7 @@ function Main ()  {
 
             <Container>
                 <div className="flex-container2">
-                    <Row>
+                    <Row   data-aos="fade-up">
                         <Col className="sponsor-box">
                             <img src="./Assests/ICSUSL logo.png" alt="" className="spons-logo"/>
                         </Col>
@@ -199,12 +199,12 @@ function Main ()  {
                         
                     </Row>
 
-                    <Row className="spons-apply">
+                    <Row className="spons-apply"   data-aos="fade-up">
                         <Col className="spons-apply-text">
-                            <p className="spons-apply" >If you are interested in providing sponsorship for our project, you can apply it from here.</p>
+                            <p className="spons-apply-paragraph" >If you are interested in providing sponsorship for our project, you can apply it from here.</p>
                         </Col>
                         <Col className="spons-apply-btn">
-                            <Button className="btn btn-primary" href="https://forms.gle/CMexeNrHgwdW2UGy8">Apply</Button>
+                            <Button className="btn1 btn-primary1" href="https://forms.gle/CMexeNrHgwdW2UGy8">Apply</Button>
                         </Col>
                     </Row>
 

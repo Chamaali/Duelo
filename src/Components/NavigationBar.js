@@ -23,7 +23,7 @@ const NavigationBar = () => {
                                     <Nav.Link href="#prizes" className="nav-items">Prizes</Nav.Link>
                                     <Nav.Link href="#sponsors" className="nav-items">Sponsors</Nav.Link>
                                     <Nav.Link href="#help" className="nav-items">Help</Nav.Link>
-                                    <Button className="btn btn-primary" href="https://forms.gle/CMexeNrHgwdW2UGy8">Resgister</Button>
+                                    <Button className="btn1 btn-primary1" href="https://forms.gle/CMexeNrHgwdW2UGy8"><div className='register'><p>Resgister</p></div></Button>
                                 </Nav>
                             </Navbar.Collapse>
                         </Container>    

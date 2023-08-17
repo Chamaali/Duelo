@@ -3,14 +3,23 @@ import { Container } from 'react-bootstrap'
 import HeadingText from './HeadingText'
 import HeadingText2 from './HeadingText2'
 import "./images.css"
+import AOS from "aos"
+import "aos/dist/aos.css";
+import { useEffect } from "react";
 
-const TechnicalSpecification = () => {
+function TechnicalSpecification ()  {
+
+    useEffect ( () =>{
+        AOS.init({
+            duration: 3000
+        });
+    }, []);
   return (
-    <div style={{ backgroundColor:"#111111"}}>
+    <div style={{ backgroundColor:"#111111"}} className='technical'>
         <Container>
         <HeadingText>TECHNICAL SPECIFICATIONS</HeadingText>
         <HeadingText2>I.ROBOT SPECIFICATIONS</HeadingText2>
-        <div>
+        <div data-aos="fade-up">
             <ul>
 
                 <li className='sub-paragraph'>The dimensions of the robot must be within the maximum allowable dimensions of 45cm x 45cm (length x width) and the allowed maximum weight of 10kg.</li> 
@@ -41,7 +50,7 @@ const TechnicalSpecification = () => {
             </ul>
         </div>
         <HeadingText2>II.COMBAT</HeadingText2>
-        <div>
+        <div  data-aos="fade-up">
             <ul>
                 <li className='sub-paragraph'>The combat volume is defined as the combat surface and the airspace above it to the height of whatever ceiling is present.</li> 
                 
@@ -67,7 +76,7 @@ const TechnicalSpecification = () => {
             </ul>
         </div>
         <HeadingText2>III.WEAPON TYPES</HeadingText2>
-        <div>
+        <div  data-aos="fade-up">
             <p  className='sub-paragraph'>Forbidden Weapons, The following weapons may not be used:</p>
             <ol>
                 <li className='sub-topics'>Electricity<span className='paragraph'> - The use of electricity as a weapon shall be forbidden. This includes, but is not limited to the following:</span></li>
@@ -104,7 +113,7 @@ const TechnicalSpecification = () => {
             </ol>
         </div>
         <HeadingText2>IV.TECHNICAL / SAFETY INSPECTION</HeadingText2>
-        <div>
+        <div  data-aos="fade-up">
             <p className='sub-paragraph'>To be eligible to compete in “SUSL Robot Battles 2K23” entrants must pass a technical / safety inspection. The points covered at the technical / safety inspection shall include (not limited to): </p>
             <p className='sub-paragraph'>Eligibility - compliance with “SUSL Robot Battles 2K23” Competition Rules & Guidelines.</p>
             <ul>
